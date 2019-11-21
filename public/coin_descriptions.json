@@ -1,0 +1,46 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "category": "Cryptocurrency",
+    "description": "Bitcoin is a cryptocurrency and worldwide payment system",
+    "openSource" : "Yes",
+    "foundedYear": "2009",
+    "image":"https://files.coinmarketcap.com/static/img/coins/32x32/bitcoin.png",
+    "ico": "",
+    "features": "Peer to peer, Decentralized ,Blockchain",
+    "country": ""
+  },
+  {
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "category": "Cryptocurrency",
+    "ico": "",
+    "description": "Bitcoin copy, but improvements and larger supply",
+    "features": "Peer to Peer, Decentralized ,Blockchain,Lightning Network,near-zero cost payments",
+    "foundedYear": "2011",
+    "image":"https://files.coinmarketcap.com/static/img/coins/32x32/litecoin.png",
+    "country": "US"
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "category": "Smart Contract",
+    "ico" : "15,571,000",
+    "description": "Ethereum is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality",
+    "features": "Blockchain,Smart Contact,Ethereum Virtual Machine (EVM),dApps",
+    "image":"https://files.coinmarketcap.com/static/img/coins/32x32/ethereum.png",
+    "foundedYear": "2014"
+  },
+  {
+    "symbol": "XRP",
+    "name": "Ripple",
+    "category": "Enterprise",
+    "description": "The world’s only enterprise blockchain solution for global payment",
+    "features": "XRP,Blockchain,xCurrent,xRapid,xVia",
+    "image":"https://files.coinmarketcap.com/static/img/coins/32x32/ripple.png",
+    "foundedYear": "2012",
+    "country": "US"
+  }
+
+]
